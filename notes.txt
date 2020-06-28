@@ -1,0 +1,5 @@
+npm install react-router-dom
+npm install react-bootstrap bootstrap
+npm install node-sass --save
+npm install animate.css --save
+npm install @fullpage/react-fullpage
