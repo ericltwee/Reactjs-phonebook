@@ -10,7 +10,7 @@
     "animate.css": "^3.7.2",
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
-    "fullpage.js": "^3.0.8",
+    "fullpage.js": "^4.0.5",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0",
